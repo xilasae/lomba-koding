@@ -1,0 +1,6 @@
+{
+  "name": "Kanban Sheet Flow",
+  "description": "A modern Kanban board tracker synced with Google Sheets, featuring drag-and-drop, full CRUD operations, and a right drawer for task details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
